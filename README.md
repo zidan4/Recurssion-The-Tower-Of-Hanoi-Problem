@@ -1,6 +1,6 @@
 # Recurssion-The-Tower-Of-Hanoi-Problem
 
-freeCodeCamp Practice Project
+freeCodeCamp Practice Project.
 
 
-Scientific Computing with Python
+Scientific Computing with Python.
